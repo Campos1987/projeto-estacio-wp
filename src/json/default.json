@@ -1,0 +1,54 @@
+{
+  "estacioTi": [
+    {
+      "category": "Vídeos",
+      "children": [
+        {
+          "key": "f01",
+          "label": "Curso Git",
+          "url": "https://youtu.be/ts-H3W1uLMM?si=0gJ2NfMBF1XF1nyV"
+        },
+        {
+          "key": "f02",
+          "label": "Introdução a algoritmos (Curso em Vídeo)",
+          "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV"
+        }
+      ]
+    },
+    {
+      "category": "Livros JavaScript (PDF)",
+      "children": [
+        {
+          "key": "ls01",
+          "label": "JavaScript o guia definitivo",
+          "url": "https://drive.google.com/file/d/1etc2KZNGlU844VehzRkZIlkZczX1Q_I1/view?usp=drive_link"
+        },
+        {
+          "key": "ls02",
+          "label": "Algoritmos - Teoria e Prática - Autor (Thomas Cormen)",
+          "url": "https://drive.google.com/file/d/1zBhRwkea7RgCVvCeQ-bqybNLilN-dv_h/view?usp=sharing"
+        },
+        {
+          "key": "ls03",
+          "label": "Arquitetura Limpa - Autor (Robert C. Martin)",
+          "url": "https://drive.google.com/file/d/13F8ddV5KTBvcAt_TMSut4wWiN0b1s-fu/view?usp=sharing"
+        },
+        {
+          "key": "ls01",
+          "label": "CSS Eficiente - Autor (Casa do Código)",
+          "url": "https://drive.google.com/file/d/1kI79hkhQflnuTzscxO0I09ilkVxEiW0K/view?usp=sharing"
+        },
+        {
+          "key": "ls01",
+          "label": "Domain-Driven Design Referência - Autor (Eric Evans)",
+          "url": "https://drive.google.com/file/d/1qwUDRFgKuRdpJOx7woMXVeIqjzCtznye/view?usp=sharing"
+        },
+        {
+          "key": "ls01",
+          "label": "HTML5 e CSS3 - Autor (Casa do Código)",
+          "url": "https://drive.google.com/file/d/19AIYKHjNupsyKdggswl6-pD02BEzj3by/view?usp=sharing"
+        }
+      ]
+    }
+  ]
+}

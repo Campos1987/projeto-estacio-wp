@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import Styles from './Box.module.css';
 
 type CategoryItem = {
@@ -39,7 +38,9 @@ const DropDown = ({ link }: DropDownProp) => {
 
   return link.map(item => (
     <li key={item.key}>
-      <Link to={item.url}>{item.label}</Link>
+      <a href={item.url} target='_blank' rel='noopener noreferrer'>
+        {item.label}
+      </a>
     </li>
   ));
 };

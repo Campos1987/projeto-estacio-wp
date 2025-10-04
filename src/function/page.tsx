@@ -4,8 +4,10 @@ const SelectPage = () => {
 
   if (urlPart.toLocaleLowerCase() === 'py') {
     return 'py';
-  } else {
+  } else if (urlPart.toLocaleLowerCase() === 'js') {
     return 'js';
+  } else {
+    return 'default';
   }
 };
 export default SelectPage;

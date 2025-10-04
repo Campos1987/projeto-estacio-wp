@@ -54,7 +54,12 @@ a {
   display: block;
   width: 100%;
   text-decoration: none;
-  text-transform: capitalize;
+  text-transform: lowercase;
   font-weight: 400;
   color: #333;
+}
+
+a::first-letter {
+  /* Transforma a primeira letra em MAIÚSCULA */
+  text-transform: uppercase;
 }
