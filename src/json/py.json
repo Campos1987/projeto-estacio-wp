@@ -1,0 +1,34 @@
+{
+  "phyton": [
+    {
+      "category": "Ferramentas",
+      "children": [
+        {
+          "key": "f01",
+          "label": "Curso Git",
+          "url": "https://youtu.be/ts-H3W1uLMM?si=0gJ2NfMBF1XF1nyV"
+        }
+      ]
+    },
+    {
+      "category": "Fundamentos da Linguagem Python",
+      "children": [
+        {
+          "key": "fd01",
+          "label": "Fundamentos",
+          "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6"
+        },
+        {
+          "key": "fd02",
+          "label": "Estruturas de Controle",
+          "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye"
+        },
+        {
+          "key": "fd03",
+          "label": "Estruturas Compostas",
+          "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH"
+        }
+      ]
+    }
+  ]
+}

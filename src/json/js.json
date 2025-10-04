@@ -1,0 +1,24 @@
+{
+  "javascript": [
+    {
+      "category": "Ferramentas",
+      "children": [
+        {
+          "key": "f01",
+          "label": "Curso Git",
+          "url": "https://youtu.be/ts-H3W1uLMM?si=0gJ2NfMBF1XF1nyV"
+        }
+      ]
+    },
+    {
+      "category": "Fundamentos da Linguagem JavaScript",
+      "children": [
+        {
+          "key": "fd01",
+          "label": "",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}
