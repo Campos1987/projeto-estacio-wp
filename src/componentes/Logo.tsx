@@ -9,6 +9,7 @@ const Logo = ({ link }: LogoProp) => {
   let title = 'Estacio TI';
   title = page == 'py' ? 'Python' : title;
   title = page == 'js' ? 'JavaScript' : title;
+  title = page == 'fe' ? 'Front End' : title;
   return (
     <div className={Styles.logo}>
       <img src={`./img/${page}.jpg`} />

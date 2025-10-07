@@ -1,0 +1,39 @@
+{
+  "frontend": [
+    {
+      "category": "Ferramentas",
+      "children": [
+        {
+          "key": "f01",
+          "label": "Curso Git",
+          "url": "https://youtu.be/ts-H3W1uLMM?si=0gJ2NfMBF1XF1nyV"
+        }
+      ]
+    },
+    {
+      "category": "GitHub + Documentação",
+      "children": [
+        {
+          "key": "gh01",
+          "label": "GitHub",
+          "url": "https://github.com/fabiomonteiroeu/estacio-projeto-origin"
+        },
+        {
+          "key": "gh02",
+          "label": "Notion",
+          "url": "https://www.notion.so/Origin-75ff234da9f54c74b46115fa0ce50d2c"
+        },
+        {
+          "key": "gh03",
+          "label": "Google Drive",
+          "url": "https://drive.google.com/file/d/1TR779uhtd89Gqt6XOHLQKbkS7dxQNKEl/view?usp=drive_link"
+        },
+        {
+          "key": "gh03",
+          "label": "Google Drive",
+          "url": "https://drive.google.com/file/d/1TR779uhtd89Gqt6XOHLQKbkS7dxQNKEl/view?usp=drive_link"
+        }
+      ]
+    }
+  ]
+}
